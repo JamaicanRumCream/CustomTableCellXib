@@ -35,3 +35,6 @@ The function will ask a cell for its expanded height and replace the cell height
 
 2013-10-25
 Chris Paveglio
+
+![IB view](/images/img1.png "Optional title")
+![iPhone view](/images/img2.png "Optional title")
